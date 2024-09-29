@@ -3,9 +3,8 @@
 dashboardPage(
   
   dashboardHeader(title="Exploring the 1973 US Arrests data with R & Shiny Dashboard", titleWidth = 650, 
-                  tags$li(class="dropdown",tags$a(href="https://www.youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB", icon("youtube"), "My Channel", target="_blank")),
-                  tags$li(class="dropdown",tags$a(href="https://www.linkedin.com/in/abhinav-agrawal-pmp%C2%AE-safe%C2%AE-5-agilist-csm%C2%AE-5720309" ,icon("linkedin"), "My Profile", target="_blank")),
-                  tags$li(class="dropdown",tags$a(href="https://github.com/aagarw30/R-Shiny-Dashboards/tree/main/USArrestDashboard", icon("github"), "Source Code", target="_blank"))
+                  tags$li(class="dropdown",tags$a(href="https://www.linkedin.com/in/umar-musa-581851194/" ,icon("linkedin"), "My Profile", target="_blank")),
+                  tags$li(class="dropdown",tags$a(href="https://github.com/EmeritusUmar/USArrests-Shiny-Dashboard", icon("github"), "Source Code", target="_blank"))
   ),
   
   
